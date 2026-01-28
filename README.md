@@ -1,6 +1,13 @@
 Summary of Experiment 3: React Routing
 Overview
-You completed three progressive experiments exploring React Router DOM, progressing from basic routing concepts to navigation with links. All three projects use React Router DOM v7.13.0 with React 19.2.0 and Vite as the build tool.
+<img width="1919" height="906" alt="Screenshot 2026-01-28 115820" src="https://github.com/user-attachments/assets/5f24e497-d822-44a4-b376-6ec8fcc7a46e" />
+<img width="1919" height="972" alt="Screenshot 2026-01-28 115809" src="https://github.com/user-attachments/assets/ad3a9b93-1eb5-4a90-96d7-38a04a955891" />
+<img width="1919" height="896" alt="Screenshot 2026-01-28 115729" src="https://github.com/user-attachments/assets/a693a59f-2882-450c-ab54-87352bd5ccbd" />
+<img width="1919" height="913" alt="Screenshot 2026-01-28 115716" src="https://github.com/user-attachments/assets/b8acb64f-2638-4b04-ac76-3213fb8c2926" />
+<img width="1919" height="958" alt="Screenshot 2026-01-28 115654" src="https://github.com/user-attachments/assets/27fda975-c686-4046-88d5-e180b16e9a83" />
+<img width="1919" height="974" alt="Screenshot 2026-01-28 115607" src="https://github.com/user-attachments/assets/a78a56cf-e51a-4bda-81b3-940cb59b2bb6" />
+<img width="1919" height="970" alt="Screenshot 2026-01-28 115550" src="https://github.com/user-attachments/assets/327aaa9f-cf86-456d-b1eb-1ccceb067a4d" />
+
 
 Routing1: Basic Routing Fundamentals
 What You Implemented:
@@ -45,8 +52,6 @@ Enhanced content with additional information
 Theory & Concepts:
 The Link Component: Most important addition in this experiment
 
-Why Link instead of <a> tags?
-
 <a> tags cause full page reload (defeats SPA purpose)
 Link component from React Router performs client-side navigation
 Prevents page refresh, maintains application state
@@ -90,10 +95,4 @@ Routing1 → Basic routing setup (foundation)
 Routing2 → Styled components with routing (practical application)
 Routing3 → Navigation links for better UX (complete SPA experience)
 
-This progression demonstrates the evolution from understanding routing mechanics to building a fully functional, user-friendly single-page application with proper navigation patterns.<img width="1919" height="906" alt="Screenshot 2026-01-28 115820" src="https://github.com/user-attachments/assets/5f24e497-d822-44a4-b376-6ec8fcc7a46e" />
-<img width="1919" height="972" alt="Screenshot 2026-01-28 115809" src="https://github.com/user-attachments/assets/ad3a9b93-1eb5-4a90-96d7-38a04a955891" />
-<img width="1919" height="896" alt="Screenshot 2026-01-28 115729" src="https://github.com/user-attachments/assets/a693a59f-2882-450c-ab54-87352bd5ccbd" />
-<img width="1919" height="913" alt="Screenshot 2026-01-28 115716" src="https://github.com/user-attachments/assets/b8acb64f-2638-4b04-ac76-3213fb8c2926" />
-<img width="1919" height="958" alt="Screenshot 2026-01-28 115654" src="https://github.com/user-attachments/assets/27fda975-c686-4046-88d5-e180b16e9a83" />
-<img width="1919" height="974" alt="Screenshot 2026-01-28 115607" src="https://github.com/user-attachments/assets/a78a56cf-e51a-4bda-81b3-940cb59b2bb6" />
-<img width="1919" height="970" alt="Screenshot 2026-01-28 115550" src="https://github.com/user-attachments/assets/327aaa9f-cf86-456d-b1eb-1ccceb067a4d" />
+This progression demonstrates the evolution from understanding routing mechanics to building a fully functional, user-friendly single-page application with proper navigation patterns.
